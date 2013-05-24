@@ -1,0 +1,5 @@
+package com.aura.engine.module.shell;
+
+public abstract class MObjectAction {
+	public abstract void execute();
+}

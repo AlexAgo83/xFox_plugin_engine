@@ -1,0 +1,64 @@
+8
+
+dir
+5244
+https://kroidproject.svn.sourceforge.net/svnroot/kroidproject/xFox_plugin_engine/xFox_plugin_engine
+https://kroidproject.svn.sourceforge.net/svnroot/kroidproject
+
+
+
+2013-03-22T21:27:00.760728Z
+5206
+ktrn42
+has-props
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7537328a-2daf-46a0-9268-e1fd7e6b2b6c
+
+test
+dir
+
+.classpath
+file
+
+
+
+
+2013-03-21T10:45:22.427874Z
+5da2e46ea1b519328af56153493073c1
+2013-03-04T10:53:42.334739Z
+4865
+ktrn42
+
+.project
+file
+
+
+
+
+2013-03-21T10:45:22.427874Z
+098f84df804b8377f9ad6514b6399031
+2013-03-04T10:53:42.334739Z
+4865
+ktrn42
+
+src
+dir
+
+ress
+dir
+
+.settings
+dir
+

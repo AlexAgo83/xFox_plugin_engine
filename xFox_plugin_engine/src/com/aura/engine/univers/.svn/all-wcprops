@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/kroidproject/!svn/ver/5206/xFox_plugin_engine/xFox_plugin_engine/src/com/aura/engine/univers
+END
+UniversServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/kroidproject/!svn/ver/5149/xFox_plugin_engine/xFox_plugin_engine/src/com/aura/engine/univers/UniversServer.java
+END
+EntityTokenServer.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/kroidproject/!svn/ver/5149/xFox_plugin_engine/xFox_plugin_engine/src/com/aura/engine/univers/EntityTokenServer.java
+END
+DrawableGarbage.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/kroidproject/!svn/ver/5149/xFox_plugin_engine/xFox_plugin_engine/src/com/aura/engine/univers/DrawableGarbage.java
+END
+UniversClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/svnroot/kroidproject/!svn/ver/5149/xFox_plugin_engine/xFox_plugin_engine/src/com/aura/engine/univers/UniversClient.java
+END
+Univers.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/kroidproject/!svn/ver/5149/xFox_plugin_engine/xFox_plugin_engine/src/com/aura/engine/univers/Univers.java
+END
+EntityTokenClient.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svnroot/kroidproject/!svn/ver/5149/xFox_plugin_engine/xFox_plugin_engine/src/com/aura/engine/univers/EntityTokenClient.java
+END
+EntityToken.java
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svnroot/kroidproject/!svn/ver/5149/xFox_plugin_engine/xFox_plugin_engine/src/com/aura/engine/univers/EntityToken.java
+END

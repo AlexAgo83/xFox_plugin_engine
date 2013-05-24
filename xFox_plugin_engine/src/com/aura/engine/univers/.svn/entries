@@ -1,0 +1,121 @@
+8
+
+dir
+5244
+https://kroidproject.svn.sourceforge.net/svnroot/kroidproject/xFox_plugin_engine/xFox_plugin_engine/src/com/aura/engine/univers
+https://kroidproject.svn.sourceforge.net/svnroot/kroidproject
+
+
+
+2013-03-22T21:27:00.760728Z
+5206
+ktrn42
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+7537328a-2daf-46a0-9268-e1fd7e6b2b6c
+
+texture
+dir
+
+drawable
+dir
+
+UniversServer.java
+file
+
+
+
+
+2013-03-21T10:45:20.506405Z
+03c3d9d4d3c15e71550222e5ce814f40
+2013-03-15T16:16:49.317042Z
+5083
+ktrn42
+
+EntityTokenServer.java
+file
+
+
+
+
+2013-03-21T10:45:20.522027Z
+fe87594ce51107e5732d6864e4d8582c
+2013-03-15T14:32:43.617033Z
+5080
+ktrn42
+
+world
+dir
+
+DrawableGarbage.java
+file
+
+
+
+
+2013-03-21T10:45:20.522027Z
+d373585ff68b7079b339b1b144237797
+2013-03-15T14:11:11.086028Z
+5079
+ktrn42
+
+UniversClient.java
+file
+
+
+
+
+2013-03-21T10:45:20.537648Z
+6d2d706a800f289e7d7367b894d7d1a0
+2013-03-15T18:32:15.867249Z
+5088
+ktrn42
+
+Univers.java
+file
+
+
+
+
+2013-03-21T10:45:20.553270Z
+410a0fac967d6157e11c1a58be190e85
+2013-03-10T02:16:05.110221Z
+4996
+ktrn42
+
+EntityTokenClient.java
+file
+
+
+
+
+2013-03-21T10:45:20.600135Z
+e5112de7d3cb026238b2df88273f313c
+2013-03-15T14:32:43.617033Z
+5080
+ktrn42
+
+EntityToken.java
+file
+
+
+
+
+2013-03-21T10:45:20.600135Z
+846fa273c669ab07b28f828f28a3875a
+2013-03-15T15:08:54.100277Z
+5081
+ktrn42
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="WINDOWS-1252" standalone="no"?>
+<jardesc>
+    <jar path="C:/src_lib/xFox_plugin_engine.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/xFox_plugin_engine/build_jar.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="false" overwrite="true" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" manifestLocation="/xFox_plugin_engine/manifest.xml" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+        <sealing sealJar="true">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <folder path="/xFox_plugin_engine/ress"/>
+        <javaElement handleIdentifier="=xFox_plugin_engine/src"/>
+        <file path="/xFox_plugin_engine/.classpath"/>
+        <folder path="/xFox_plugin_engine/xFox_plugin_engine"/>
+        <file path="/xFox_plugin_engine/.project"/>
+        <javaElement handleIdentifier="=xFox_plugin_engine/test"/>
+    </selectedElements>
+</jardesc>

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svnroot/kroidproject/!svn/ver/5244/xFox_plugin_engine/src/com/aura/engine/module
+END
+EMConsoleUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svnroot/kroidproject/!svn/ver/5168/xFox_plugin_engine/src/com/aura/engine/module/EMConsoleUI.java
+END
+AuraEngineModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svnroot/kroidproject/!svn/ver/5242/xFox_plugin_engine/src/com/aura/engine/module/AuraEngineModule.java
+END
+EMDebugUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svnroot/kroidproject/!svn/ver/5161/xFox_plugin_engine/src/com/aura/engine/module/EMDebugUI.java
+END
+EMWorld.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svnroot/kroidproject/!svn/ver/5162/xFox_plugin_engine/src/com/aura/engine/module/EMWorld.java
+END
+ShellContainer.java
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svnroot/kroidproject/!svn/ver/5200/xFox_plugin_engine/src/com/aura/engine/module/ShellContainer.java
+END
+EMEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svnroot/kroidproject/!svn/ver/5216/xFox_plugin_engine/src/com/aura/engine/module/EMEntity.java
+END

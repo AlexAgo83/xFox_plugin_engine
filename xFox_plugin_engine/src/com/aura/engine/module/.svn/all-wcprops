@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svnroot/kroidproject/!svn/ver/5206/xFox_plugin_engine/xFox_plugin_engine/src/com/aura/engine/module
+END
+MObjectAction.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svnroot/kroidproject/!svn/ver/5149/xFox_plugin_engine/xFox_plugin_engine/src/com/aura/engine/module/MObjectAction.java
+END
+EMConsoleUI.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/kroidproject/!svn/ver/5149/xFox_plugin_engine/xFox_plugin_engine/src/com/aura/engine/module/EMConsoleUI.java
+END
+MObject.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/kroidproject/!svn/ver/5206/xFox_plugin_engine/xFox_plugin_engine/src/com/aura/engine/module/MObject.java
+END
+AuraEngineModule.java
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/svnroot/kroidproject/!svn/ver/5149/xFox_plugin_engine/xFox_plugin_engine/src/com/aura/engine/module/AuraEngineModule.java
+END
+EMShell.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/kroidproject/!svn/ver/5149/xFox_plugin_engine/xFox_plugin_engine/src/com/aura/engine/module/EMShell.java
+END
+EMWorld.java
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/svnroot/kroidproject/!svn/ver/5149/xFox_plugin_engine/xFox_plugin_engine/src/com/aura/engine/module/EMWorld.java
+END
+EMEntity.java
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/svnroot/kroidproject/!svn/ver/5206/xFox_plugin_engine/xFox_plugin_engine/src/com/aura/engine/module/EMEntity.java
+END
+EMShellMenu.java
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svnroot/kroidproject/!svn/ver/5149/xFox_plugin_engine/xFox_plugin_engine/src/com/aura/engine/module/EMShellMenu.java
+END
